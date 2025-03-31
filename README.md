@@ -21,5 +21,5 @@
 
 ## Visitors
 <div align="center">
-  <img src="https://profile-counter.glitch.me/DEIN_USERNAME/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/veynomc/count.svg" alt="Visitor Count" />
 </div>
