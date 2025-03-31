@@ -9,7 +9,7 @@
 </div>
 
 ## Projects:
-- [VeynosChallengeCore](https://github.com/veynomc/veynoschallengecore) - Requiered for all Challenge Plugins | most recent Version: [![Version](https://img.shields.io/github/v/release/veynomc/veynoschallengecore)](https://github.com/veynomc/veynoschallengecore)
+- [VeynosChallengeCore](https://github.com/veynomc/veynoschallengecore) - Requiered for all Challenge Plugins | most recent Version: [[Version](https://img.shields.io/github/v/release/veynomc/veynoschallengecore)](https://github.com/veynomc/veynoschallengecore)
 - [comming soon](https://github.com/veynomc/veynoschallangekillteleport) - Lorem ipsum
 
 ## Socials
