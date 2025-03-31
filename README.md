@@ -9,7 +9,7 @@
 </div>
 
 ## Projects:
-- [comming soon](https://github.com/veynomc/veynoschallangecore) - Lorem ipsum
+- [Core Plugin](https://github.com/veynomc/veynoschallangecore) - Requiered for all Challenge Plugins
 - [comming soon](https://github.com/veynomc/veynoschallangekillteleport) - Lorem ipsum
 
 ## Socials
