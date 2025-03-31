@@ -7,3 +7,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=veynomc&show_icons=true&theme=radical" alt="Stats" />
 </div>
+
+## Projekte:
+- [comming soon](https://github.com/DEIN_USERNAME/projekt1) - Lorem ipsum
+- [comming soon](https://github.com/DEIN_USERNAME/projekt2) - Lorem ipsum
