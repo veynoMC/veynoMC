@@ -11,6 +11,7 @@
 ## Projects:
 - [VeynosChallengeCore](https://github.com/veynomc/veynoschallengecore) - Requiered for all Challenge Plugins | most recent Version:   [![Version](https://img.shields.io/github/v/release/veynomc/veynoschallengecore)](https://github.com/veynomc/veynoschallengecore/releases)
 - [VeynosChallangeKillTeleport](https://github.com/veynomc/veynoschallangekillteleport) - Kill entites to move | most recent Version: [![Version](https://img.shields.io/github/v/release/veynomc/veynoschallangekillteleport)](https://github.com/veynomc/veynoschallangekillteleport/releases)
+- [VeynosAdvancedFireballs](https://github.com/veynomc/veynosadvancedfireballs) - Makes fireballs fun again | most recent Version: [![Version](https://img.shields.io/github/v/release/veynomc/veynosadvancedfireballs)](https://github.com/veynomc/veynosadvancedfireballs/releases)
 
 ## Socials
 <div align="center">
