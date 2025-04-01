@@ -9,8 +9,8 @@
 </div>
 
 ## Projects:
-- [VeynosChallengeCore](https://github.com/veynomc/veynoschallengecore) - Requiered for all Challenge Plugins | Download:   [![Version](https://img.shields.io/github/v/release/veynomc/veynoschallengecore)](https://github.com/veynomc/veynoschallengecore/releases) [![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.4-brightgreen)](https://github.com/veynomc/veynoschallengecore/releases)
-- [VeynosChallangeKillTeleport](https://github.com/veynomc/veynoschallangekillteleport) - Kill entites to move | Download: [![Version](https://img.shields.io/github/v/release/veynomc/veynoschallangekillteleport)](https://github.com/veynomc/veynoschallangekillteleport/releases) [![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.4-brightgreen)](https://img.shields.io/github/v/release/veynomc/veynoschallangekillteleport)]
+- [VeynosChallengeCore](https://github.com/veynomc/veynoschallengecore) - Requiered for all Challenge Plugins | Download: [![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.4-brightgreen)](https://github.com/veynomc/veynoschallengecore/releases)
+- [VeynosChallangeKillTeleport](https://github.com/veynomc/veynoschallangekillteleport) - Kill entites to move | Download: [![Version](https://img.shields.io/github/v/release/veynomc/veynoschallangekillteleport)](https://github.com/veynomc/veynoschallangekillteleport/releases)
 - [VeynosAdvancedFireballs](https://github.com/veynomc/veynosadvancedfireballs) - Makes fireballs fun again | Download: [![Version](https://img.shields.io/github/v/release/veynomc/veynosadvancedfireballs)](https://github.com/veynomc/veynosadvancedfireballs/releases) ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.4-brightgreen)
 
 ## Socials
