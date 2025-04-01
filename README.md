@@ -10,7 +10,7 @@
 
 ## Projects:
 - [VeynosChallengeCore](https://github.com/veynomc/veynoschallengecore) - Requiered for all Challenge Plugins | most recent Version:   [![Version](https://img.shields.io/github/v/release/veynomc/veynoschallengecore)](https://github.com/veynomc/veynoschallengecore/releases)
-- [VeynosChallangeKillTeleport](https://github.com/veynomc/veynoschallangekillteleport) - The player has to kill other entites to be teleported to their location |most recent Release: [![Version](https://img.shields.io/github/v/release/veynomc/veynoschallangekillteleport)](https://github.com/veynomc/veynoschallangekillteleport/releases)
+- [VeynosChallangeKillTeleport](https://github.com/veynomc/veynoschallangekillteleport) - Kill entites to move | most recent Release: [![Version](https://img.shields.io/github/v/release/veynomc/veynoschallangekillteleport)](https://github.com/veynomc/veynoschallangekillteleport/releases)
 
 ## Socials
 <div align="center">
