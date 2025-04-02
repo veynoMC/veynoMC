@@ -30,4 +30,5 @@
 
 ## Contact
 - Discord: ```veyno```
-- E-Mail: ```contact@veyno.eu```
+- E-Mail: ```
+contact@veyno.eu```
