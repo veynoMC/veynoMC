@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&width=435&lines=Minecraft+Plugins;Arduino/ESP32;Learning+Java" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&width=435&lines=Minecraft+Plugins;Arduino/ESP32;Learning+Java" alt="Typing SVG" />
 </h2>
 
 <div align="center">
