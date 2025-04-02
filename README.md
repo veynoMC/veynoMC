@@ -29,6 +29,10 @@
 </div>
 
 ## Contact
-- Discord: ```veyno```
-- E-Mail: ```
-contact@veyno.eu```
+- Discord: 
+```veyno```
+
+- E-Mail: 
+```
+contact@veyno.eu
+```
