@@ -4,9 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Minecraft+Plugins;Arduino/ESP32;Learning+Java" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veynomc&show_icons=true&theme=radical" alt="Stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=veynomc&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=veynomc&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=veynomc&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
+
 
 ## Projects:
 - [VeynosChallengeCore](https://github.com/veynomc/veynoschallengecore) - Requiered for all Challenge Plugins | Download: [![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.4-brightgreen)](https://github.com/veynomc/veynoschallengecore/releases)
