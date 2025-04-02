@@ -28,7 +28,7 @@
 
 
 ## Visitors
-<div align="center" style="border: 2px solid #ff6600; border-radius: 10px; padding: 10px; display: inline-block;">
+<div align="center" style="border: 15px solid #ff6600; border-radius: 10px; padding: 10px; display: inline-block;">
   <img src="https://profile-counter.glitch.me/veynomc/count.svg" alt="Visitor Count" />
 </div>
 
