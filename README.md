@@ -10,7 +10,7 @@
 
 ## Projects:
 - [VeynosChallengeCore](https://github.com/veynomc/veynoschallengecore) - Requiered for all Challenge Plugins | Download: [![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.4-brightgreen)](https://github.com/veynomc/veynoschallengecore/releases)
-- [VeynosChallangeKillTeleport](https://github.com/veynomc/veynoschallangekillteleport) - Kill entites to move | Download: [![Version](https://img.shields.io/github/v/release/veynomc/veynoschallangekillteleport)](https://github.com/veynomc/veynoschallangekillteleport/releases)
+- [VeynosChallangeKillTeleport](https://github.com/veynomc/veynoschallangekillteleport) - Kill entites to move | Download: [![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.4-brightgreen)](https://github.com/veynomc/veynossimpletwitchchat/releases)
 - [VeynosAdvancedFireballs](https://github.com/veynomc/veynosadvancedfireballs) - Makes fireballs fun again | Download: [![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.4-brightgreen)](https://github.com/veynomc/veynosadvancedfireballs/releases)
 - [VeynosSimpleTwitchChat](https://github.com/veynomc/veynossimpletwitchchat) - Livestream Chat in Minecraft | Download: [![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.4-brightgreen)](https://github.com/veynomc/veynossimpletwitchchat/releases)
 
