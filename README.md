@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veynomc&show_icons=true&theme=radical" alt="Stats" /><img src="https://github-readme-stats.vercel.app/api?username=veynomc&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=veynomc&show_icons=true&theme=radical" alt="Stats" /><img src="https://github-readme-stats.vercel.app/api?username=veynomc&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
 ## Projects:
