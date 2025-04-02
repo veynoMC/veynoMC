@@ -4,10 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Minecraft+Plugins;Arduino/ESP32;Learning+Java" alt="Typing SVG" />
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=veynomc&show_icons=true&theme=radical" alt="Stats" style="margin-right: 20px;" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=veynomc&show_icons=true&theme=radical" alt="Stats" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=veynomc&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</div>
+</p>
 
 
 ## Projects:
