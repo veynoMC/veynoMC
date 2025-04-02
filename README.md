@@ -8,9 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=veynomc&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
-
-
-
 ## Projects:
 - [VeynosChallengeCore](https://github.com/veynomc/veynoschallengecore) - Requiered for all Challenge Plugins | Download: [![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.4-brightgreen)](https://github.com/veynomc/veynoschallengecore/releases)
 - [VeynosChallangeKillTeleport](https://github.com/veynomc/veynoschallangekillteleport) - Kill entites to move | Download: [![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.4-brightgreen)](https://github.com/veynomc/veynoschallangekillteleport/releases)
@@ -24,7 +21,6 @@
   <a href="https://www.twitch.tv/veynomc"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
   <a href="https://discord.gg/6ZHtuBefVY"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </div>
-
 
 ## Visitors
 <div align="center">
